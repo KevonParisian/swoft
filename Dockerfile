@@ -1,5 +1,5 @@
 # @description php image base on the debian 9.x
-#
+!
 #                       Some Information
 # ------------------------------------------------------------------------------------
 # @link https://hub.docker.com/_/debian/      alpine image
@@ -86,3 +86,4 @@ EXPOSE 18306 18307 18308
 
 # ENTRYPOINT ["php", "/var/www/swoft/bin/swoft", "http:start"]
 CMD ["php", "/var/www/swoft/bin/swoft", "http:start"]
+ 
