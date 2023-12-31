@@ -10,7 +10,7 @@
   "license": "Apache-2.0",
   "require": {
     "php": ">7.1",
-    "ext-pdo": "*",
+    "ext-pdo": " ",
     "ext-redis": "*",
     "ext-json": "*",
     "ext-mbstring": "*",
@@ -59,3 +59,4 @@
     }
   }
 }
+ 
